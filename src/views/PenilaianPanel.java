@@ -116,7 +116,7 @@ public class PenilaianPanel extends JPanel {
         btnCetak.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                cetakLaporan();
+                printReport();
             }
         });
     }
@@ -134,7 +134,7 @@ public class PenilaianPanel extends JPanel {
                 sdf.format(penilaian.getTanggalPenilaian()),
                 penilaian.getHasil(),
                 penilaian.getKeterangan()
-            });
+            }); 
         }
     }
     

@@ -5,10 +5,16 @@
         <group>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/reports/reportjenisaset.jrxml</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/reports/reportaset.jrxml</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/controllers/AsetController.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/views/MainForm.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/reports/reportaturan.jrxml</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/views/KondisiPanel.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/reports/reportkondisi.jrxml</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/reports/reportpenilaian.jrxml</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/views/AsetPanel.java</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/views/PenilaianPanel.java</file>
             <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/views/AturanPanel.java</file>
+            <file>file:/C:/Users/User/Documents/NetBeansProjects/Sispak_ForwardChaining/src/controllers/PenilaianController.java</file>
         </group>
     </open-files>
 </project-private>
