@@ -230,4 +230,21 @@ public class AsetController {
 
         return false;
     }
+
+    public int getCount() {
+        int count = 0;
+        String sql = "SELECT COUNT(*) AS total FROM master_aset";
+        try {
+            Connection conn = Database.getConnection();
+            PreparedStatement stmt = conn.prepareStatement(sql);
+            ResultSet rs = stmt.executeQuery();
+            if (rs.next()) {
+                count = rs.getInt("total");
+            }
+        } catch (SQLException ex) {
+            ex.printStackTrace();
+        }
+        return count;
+    }
+
 }
